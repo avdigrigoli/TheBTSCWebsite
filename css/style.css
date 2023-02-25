@@ -4404,8 +4404,9 @@ button.close {
   flex-direction: column;
   width: 100%;
   pointer-events: auto;
-  background-color: #fff;
+  background-color: #ffffff;
   background-clip: padding-box;
+  -webkit-text-fill-color: #325c7a;
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: 0.3rem;
   outline: 0; }
@@ -8114,10 +8115,10 @@ h1, h2, h3, h4, h5,
   border-radius: 0px;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-  border: transparent !important;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
-  padding-right: 0;
-  padding-left: 0; }
+  border: 1px solid #77A5C8FF;
+  border-radius: 12px;
+  padding-right: 8px;
+  padding-left: 8px; }
   .form-control:focus, .form-control:active {
     border-color: #77A5C8FF; }
 
@@ -9157,3 +9158,5 @@ h3.quote::before {
 .blog-item {
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
+
+/* calendar css */

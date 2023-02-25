@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/webapp/src/main/webapp/adminCalendarApproval.jsp" value="file://$PROJECT_DIR$/webapp/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/webapp/src/main/webapp/adminGalleryOptions.jsp" value="file://$PROJECT_DIR$/webapp/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/webapp/src/main/webapp/admin_interface.jsp" value="file://$PROJECT_DIR$/webapp/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/webapp/src/main/webapp/blog.jsp" value="file://$PROJECT_DIR$/webapp/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/webapp/src/main/webapp/calendar.jsp" value="file://$PROJECT_DIR$/webapp/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/webapp/src/main/webapp/catering.html" value="file://$PROJECT_DIR$/webapp/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/webapp/src/main/webapp/catering.jsp" value="file://$PROJECT_DIR$/webapp/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/webapp/src/main/webapp/create_blog_post.jsp" value="file://$PROJECT_DIR$/webapp/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/webapp/src/main/webapp/events.html" value="file://$PROJECT_DIR$/webapp/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/webapp/src/main/webapp/gallery.jsp" value="file://$PROJECT_DIR$/webapp/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/webapp/src/main/webapp/gallery2.jsp" value="file://$PROJECT_DIR$/webapp/src/main/webapp" />
+      </map>
+    </option>
+  </component>
+</project>
